@@ -1,0 +1,13 @@
+{
+  "name": "hackerrank1weekprep",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
